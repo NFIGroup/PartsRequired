@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="59f0cb9b-f8b4-4ffa-8b35-702f56e673ea" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="https://newflyer.custhelp.com/cgi-bin/newflyer.cfg/services/soap?wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="soap.xsd" MetadataType="Schema" ID="e3815596-8650-411f-b4ac-d38c1085d860" SourceId="1" SourceUrl="https://newflyer.custhelp.com/cgi-bin/newflyer.cfg/services/soap?xsd=generic" />
+    <MetadataFile FileName="soap1.xsd" MetadataType="Schema" ID="a6f8255f-abe0-4615-950e-82ad33ef8a95" SourceId="1" SourceUrl="https://newflyer.custhelp.com/cgi-bin/newflyer.cfg/services/soap?xsd=faults" />
+    <MetadataFile FileName="soap2.xsd" MetadataType="Schema" ID="1b84db2e-be18-4720-a16f-459ee1e57ff5" SourceId="1" SourceUrl="https://newflyer.custhelp.com/cgi-bin/newflyer.cfg/services/soap?xsd=messagestyped" />
+    <MetadataFile FileName="soap3.xsd" MetadataType="Schema" ID="6ee164ab-c605-45fa-afaf-6f4e206875c2" SourceId="1" SourceUrl="https://newflyer.custhelp.com/cgi-bin/newflyer.cfg/services/soap?xsd=base" />
+    <MetadataFile FileName="RightNow.wsdl" MetadataType="Wsdl" ID="932c7106-f7a5-43ab-9eef-67319ef876aa" SourceId="1" SourceUrl="https://newflyer.custhelp.com/cgi-bin/newflyer.cfg/services/soap?wsdl" />
+    <MetadataFile FileName="soap4.xsd" MetadataType="Schema" ID="0c1734e8-b79d-4516-bf81-152665b21c80" SourceId="1" SourceUrl="https://newflyer.custhelp.com/cgi-bin/newflyer.cfg/services/soap?xsd=metadata" />
+    <MetadataFile FileName="soap5.xsd" MetadataType="Schema" ID="1af49d38-d66f-48d9-a056-29b1acb71e57" SourceId="1" SourceUrl="https://newflyer.custhelp.com/cgi-bin/newflyer.cfg/services/soap?xsd=objects" />
+    <MetadataFile FileName="soap6.xsd" MetadataType="Schema" ID="df9e32a2-1c3d-4757-94a1-592efeac0fb4" SourceId="1" SourceUrl="https://newflyer.custhelp.com/cgi-bin/newflyer.cfg/services/soap?xsd=nullfields" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
