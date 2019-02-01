@@ -1,0 +1,28 @@
+D:\Personal\MyWorkingCodes\Amberleaf\Newflyer\Working Add-ins\Parts Required\Parts Required\obj\Debug\Parts_Required.ProgressForm.resources
+D:\Personal\MyWorkingCodes\Amberleaf\Newflyer\Working Add-ins\Parts Required\Parts Required\obj\Debug\Parts_Required.Properties.Resources.resources
+D:\Personal\MyWorkingCodes\Amberleaf\Newflyer\Working Add-ins\Parts Required\Parts Required\obj\Debug\Parts Required.csproj.GenerateResource.Cache
+D:\Personal\MyWorkingCodes\Amberleaf\Newflyer\Working Add-ins\Parts Required\Parts Required\bin\Debug\Parts Required.dll.config
+D:\Personal\MyWorkingCodes\Amberleaf\Newflyer\Working Add-ins\Parts Required\Parts Required\bin\Debug\Parts Required.dll
+D:\Personal\MyWorkingCodes\Amberleaf\Newflyer\Working Add-ins\Parts Required\Parts Required\bin\Debug\Parts Required.pdb
+D:\Personal\MyWorkingCodes\Amberleaf\Newflyer\Working Add-ins\Parts Required\Parts Required\bin\Debug\RightNow.AddIns.AddInViews.dll
+D:\Personal\MyWorkingCodes\Amberleaf\Newflyer\Working Add-ins\Parts Required\Parts Required\bin\Debug\RightNow.AddIns.AddInViews.xml
+D:\Personal\MyWorkingCodes\Amberleaf\Newflyer\Working Add-ins\Parts Required\Parts Required\obj\Debug\Parts Required.dll
+D:\Personal\MyWorkingCodes\Amberleaf\Newflyer\Working Add-ins\Parts Required\Parts Required\obj\Debug\Parts Required.pdb
+C:\Users\anura\Downloads\Parts Required\Parts Required\bin\Debug\Parts Required.dll.config
+C:\Users\anura\Downloads\Parts Required\Parts Required\bin\Debug\Parts Required.dll
+C:\Users\anura\Downloads\Parts Required\Parts Required\bin\Debug\Parts Required.pdb
+C:\Users\anura\Downloads\Parts Required\Parts Required\bin\Debug\RightNow.AddIns.AddInViews.xml
+C:\Users\anura\Downloads\Parts Required\Parts Required\obj\Debug\Parts_Required.ProgressForm.resources
+C:\Users\anura\Downloads\Parts Required\Parts Required\obj\Debug\Parts_Required.Properties.Resources.resources
+C:\Users\anura\Downloads\Parts Required\Parts Required\obj\Debug\Parts Required.csproj.GenerateResource.Cache
+C:\Users\anura\Downloads\Parts Required\Parts Required\obj\Debug\Parts Required.dll
+C:\Users\anura\Downloads\Parts Required\Parts Required\obj\Debug\Parts Required.pdb
+C:\Users\anura\Downloads\Parts Required\Parts Required\bin\Debug\RightNow.AddIns.AddInViews.dll
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Parts Required\Parts Required\bin\Debug\Parts Required.dll.config
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Parts Required\Parts Required\bin\Debug\Parts Required.dll
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Parts Required\Parts Required\bin\Debug\Parts Required.pdb
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Parts Required\Parts Required\obj\Debug\Parts_Required.ProgressForm.resources
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Parts Required\Parts Required\obj\Debug\Parts_Required.Properties.Resources.resources
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Parts Required\Parts Required\obj\Debug\Parts Required.csproj.GenerateResource.Cache
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Parts Required\Parts Required\obj\Debug\Parts Required.dll
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Parts Required\Parts Required\obj\Debug\Parts Required.pdb

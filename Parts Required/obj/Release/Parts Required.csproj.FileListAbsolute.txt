@@ -1,0 +1,29 @@
+C:\Users\anura\Downloads\Parts Required\Parts Required\obj\Release\Parts_Required.ProgressForm.resources
+C:\Users\anura\Downloads\Parts Required\Parts Required\obj\Release\Parts_Required.Properties.Resources.resources
+C:\Users\anura\Downloads\Parts Required\Parts Required\obj\Release\Parts Required.csproj.GenerateResource.Cache
+C:\Users\anura\Downloads\Parts Required\Parts Required\bin\Release\Parts Required.dll.config
+C:\Users\anura\Downloads\Parts Required\Parts Required\bin\Release\Parts Required.dll
+C:\Users\anura\Downloads\Parts Required\Parts Required\bin\Release\Parts Required.pdb
+C:\Users\anura\Downloads\Parts Required\Parts Required\bin\Release\RightNow.AddIns.AddInViews.dll
+C:\Users\anura\Downloads\Parts Required\Parts Required\bin\Release\RightNow.AddIns.AddInViews.xml
+C:\Users\anura\Downloads\Parts Required\Parts Required\obj\Release\Parts Required.csprojResolveAssemblyReference.cache
+C:\Users\anura\Downloads\Parts Required\Parts Required\obj\Release\Parts Required.dll
+C:\Users\anura\Downloads\Parts Required\Parts Required\obj\Release\Parts Required.pdb
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Parts Required\Parts Required\bin\Release\Parts Required.dll.config
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Parts Required\Parts Required\bin\Release\Parts Required.dll
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Parts Required\Parts Required\bin\Release\Parts Required.pdb
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Parts Required\Parts Required\obj\Release\Parts_Required.ProgressForm.resources
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Parts Required\Parts Required\obj\Release\Parts_Required.Properties.Resources.resources
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Parts Required\Parts Required\obj\Release\Parts Required.csproj.GenerateResource.Cache
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Parts Required\Parts Required\obj\Release\Parts Required.dll
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Parts Required\Parts Required\obj\Release\Parts Required.pdb
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Parts Required\Parts Required\obj\Release\Parts Required.csprojResolveAssemblyReference.cache
+C:\Users\dgraveli\Documents\Visual Studio 2010\Projects\Parts Required\Parts Required\bin\Release\Parts Required.dll.config
+C:\Users\dgraveli\Documents\Visual Studio 2010\Projects\Parts Required\Parts Required\bin\Release\Parts Required.dll
+C:\Users\dgraveli\Documents\Visual Studio 2010\Projects\Parts Required\Parts Required\bin\Release\Parts Required.pdb
+C:\Users\dgraveli\Documents\Visual Studio 2010\Projects\Parts Required\Parts Required\obj\Release\Parts Required.csprojResolveAssemblyReference.cache
+C:\Users\dgraveli\Documents\Visual Studio 2010\Projects\Parts Required\Parts Required\obj\Release\Parts_Required.ProgressForm.resources
+C:\Users\dgraveli\Documents\Visual Studio 2010\Projects\Parts Required\Parts Required\obj\Release\Parts_Required.Properties.Resources.resources
+C:\Users\dgraveli\Documents\Visual Studio 2010\Projects\Parts Required\Parts Required\obj\Release\Parts Required.csproj.GenerateResource.Cache
+C:\Users\dgraveli\Documents\Visual Studio 2010\Projects\Parts Required\Parts Required\obj\Release\Parts Required.dll
+C:\Users\dgraveli\Documents\Visual Studio 2010\Projects\Parts Required\Parts Required\obj\Release\Parts Required.pdb
